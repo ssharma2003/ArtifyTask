@@ -17,7 +17,7 @@ Details of selected projects like name, description, dates, assigned employees, 
     ```
 2. Navigate to the project directory:
     ```bash
-    cd User-Follow
+    cd ArtifyTask
     ```
 3. Navigate to the backend directory:
      ```bash
