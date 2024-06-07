@@ -55,7 +55,7 @@ Pre-requisites
      ```
 
 ### Demo video of the app 
-The link of the demo video is here : https://drive.google.com/drive/folders/1Gu4pMc8m_uKcFOlRvaDOspNfiFSckIf6?usp=drive_link
+The link of the demo video is here : [https://drive.google.com/drive/folders/1Gu4pMc8m_uKcFOlRvaDOspNfiFSckIf6?usp=drive_link](https://drive.google.com/file/d/19neAz4T2lyFfaO073kZ1NvhXOSqHtDl9/view?usp=sharing)
 
 ### Screenshots of MongoDB
 
